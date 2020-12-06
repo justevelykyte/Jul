@@ -248,7 +248,7 @@ p {
 }
 
 .event-gallery p {
-  margin: 15px 0px;
+  margin: 30px 0px;
   text-align: center;
   color: white;
 }
@@ -283,7 +283,18 @@ p {
   color: #81b5ff;
   font-weight: lighter;
 }
+/*  maybe 
 
+.div1 p{
+  margin-bottom: 72px;
+}
+.div2 p{
+  margin-bottom: 40px;
+}
+.div3 p{
+  margin-bottom: 50px;
+}
+ */
 
 .container.buffet-menu {
   margin-top: 100px;
