@@ -493,3 +493,18 @@ footer img{
 #enjoy {
   color: #000000;
 }
+#activites-photos {
+  max-width: 80%;
+  max-height: auto;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
+
+.container .buffet {
+  display: inline-block;
+  margin-top: 0%;
+  background-color: white;
+}
