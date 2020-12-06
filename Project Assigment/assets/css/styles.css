@@ -85,6 +85,7 @@ header {
 }
 
 .container img {
+  margin-bottom: -1%;
   width: 100%;
   height: auto;
 }
@@ -482,6 +483,7 @@ float: right;
 }
 
 footer img{
+  margin-bottom: -1%;
   max-width: 100%;
 }
 #covid {
