@@ -196,12 +196,12 @@ h1 {
 
 }
 .content h1{
-  
   font-family: 'Yeseva One', cursive;
   font-weight: lighter;
   font-size: 3em;
   margin-top: 20px;
   margin-bottom: 30px;
+  color: black
 }
 
 .container.about h1{
@@ -433,4 +433,16 @@ float: right;
 
 footer img{
   max-width: 100%;
+}
+.posters {
+  margin-left: 20%;
+}
+ 
+.prevention, .symptoms {
+  margin-bottom: 20px;
+  width: 70%;
+}
+ 
+.distance {
+  width: 70%;
 }
