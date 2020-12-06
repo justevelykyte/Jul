@@ -4,7 +4,10 @@ body {
   background-color: #2a2a2a;
   line-height: 1.5;
   font-size: 12pt;
-  /*background-image: url("assets/images/background");*/
+}
+
+html{
+  scroll-behavior: smooth;
 }
 
 header {
@@ -136,8 +139,13 @@ header {
   display: block;
 }
 
-.cloud-background-bottom {
+.cloud-background-bottom-home {
   margin-top: -2%;
+  max-width: 100%;
+}
+
+.cloud-background-bottom {
+  margin-top: -10%;
   max-width: 100%;
 }
 
@@ -306,7 +314,7 @@ p {
   text-align: center;
 }
 
-@media (max-width:840px) {
+ @media (max-width:840px) {
   li, ul {
     display: block;
   }
@@ -314,15 +322,6 @@ p {
     flex-direction: column;
     padding: 5px 40px;
   }
-  
-
-  .container .btn.header {
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    bottom: 5%;
-  }
-
   .nav-active header {
     position: fixed;
     top: 0;
@@ -337,6 +336,17 @@ p {
   .logo-container img {
     height: 70px;
   }
+
+  .event-gallery {
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: 1fr;
+    grid-row-gap: 100px;
+    padding: 20px 40px; 
+  }
+
+  .div1 { grid-area: 1 / 1 / 2 / 2; }
+  .div2 { grid-area: 2 / 1 / 3 / 2; }
+  .div3 { grid-area: 3 / 1 / 4 / 2; }
 
   p {
     margin: 26px 40px;
@@ -365,7 +375,8 @@ p {
   .main-image-mobile {
     display: block;
   }
-}
+} 
+
 .left {
   margin: 50px;
   padding: 0px;
