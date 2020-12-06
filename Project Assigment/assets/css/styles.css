@@ -154,6 +154,12 @@ header {
   max-width: 100%;
 }
 
+
+.cloud-background-bottom-activities {
+  
+  max-width: 100%;
+}
+
 ul {
   text-align: right;
   display: inline-flex;
@@ -506,10 +512,10 @@ footer img{
 .container .buffet {
   display: inline-block;
   margin-top: 0%;
-  background-color: #333333;
+  background-color: #2a2a2a
 }
 .content2 {
-  background-color: #333333;
+  background-color: #2a2a2a
 }
 
 .content2 p {
@@ -529,7 +535,7 @@ footer img{
 }
 
 #activites-menu {
-  max-width: 40%;
+  max-width: 550px;
   max-height: auto;
   position: relative;
   left: 50%;
