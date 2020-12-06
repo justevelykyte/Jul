@@ -423,3 +423,7 @@ float: right;
   margin-top:20px; 
   float:right;
 }
+
+footer img{
+  max-width: 100%;
+}
