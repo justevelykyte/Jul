@@ -18,6 +18,13 @@ header {
   box-sizing: border-box;
 }
 
+.schedule img{
+  max-width: 60%;
+  max-height: auto;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
 
 
 .logo-container {
