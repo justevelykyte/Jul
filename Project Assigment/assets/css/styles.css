@@ -29,6 +29,11 @@ header {
   transform: translateX(-50%);
 }
 
+.schedule1{
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
 
 .logo-container {
   display: inline-flex;
