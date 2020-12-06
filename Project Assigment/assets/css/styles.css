@@ -255,6 +255,24 @@ p {
   grid-area: 1 / 3 / 2 ;
 }
 
+.div1 h2{
+  font-family: 'Yeseva One', cursive;
+  text-align: center;
+  color: #81b5ff;
+  font-weight: lighter;
+}
+.div2 h2{
+  font-family: 'Yeseva One', cursive;
+  text-align: center;
+  color: #81b5ff;
+  font-weight: lighter;
+}
+.div3 h2{
+  font-family: 'Yeseva One', cursive;
+  text-align: center;
+  color: #81b5ff;
+  font-weight: lighter;
+}
 
 
 .container.buffet-menu {
