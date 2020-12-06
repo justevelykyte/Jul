@@ -506,5 +506,33 @@ footer img{
 .container .buffet {
   display: inline-block;
   margin-top: 0%;
-  background-color: white;
+  background-color: #333333;
+}
+.content2 {
+  background-color: #333333;
+}
+
+.content2 p {
+  font-family: 'Yeseva One', cursive;
+  font-weight: lighter;
+  margin-top: 48px;
+  font-size: 1.5em;
+  color: #ffffff;
+  
+}
+.content2 h1 {
+  font-size: 3em;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  color: #CE1719;
+}
+
+#activites-menu {
+  max-width: 900px;
+  max-height: auto;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 0%;
+  margin-bottom: 2%;
 }
