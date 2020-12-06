@@ -266,6 +266,15 @@ p {
   color: white;
 }
 
+.div1 img{
+  max-width: 90%;
+}
+.div2 img{
+  max-width: 90%;
+}
+.div3 img{
+  max-width: 90%;
+}
 .div1 {
   grid-area: 1 / 1 / 2 ;
 }
@@ -296,18 +305,6 @@ p {
   color: #81b5ff;
   font-weight: lighter;
 }
-/*  maybe 
-
-.div1 p{
-  margin-bottom: 72px;
-}
-.div2 p{
-  margin-bottom: 40px;
-}
-.div3 p{
-  margin-bottom: 50px;
-}
- */
 
 .container.buffet-menu {
   margin-top: 100px;
