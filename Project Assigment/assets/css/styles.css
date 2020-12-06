@@ -544,3 +544,20 @@ footer img{
   margin-bottom: 2%;
 }
 
+.schedule2 {
+  font-family: 'Yeseva One', cursive;
+  font-weight: lighter;
+  text-align: center;
+  display: inline-block;
+  margin-top: 0%;
+  width: 100%;
+  position: relative;
+  background-color: #333333;
+}
+.schedule2 {
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  
+  
+}
