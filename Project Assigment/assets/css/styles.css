@@ -392,8 +392,33 @@ float: right;
 }
 
 
-/* corona */
 
-footer img{
-  width: 100%;
+#logo {
+  height: auto; 
+  width: 15%; 
+  margin-right: 100px; 
+  margin-left: 100px; 
+  float:left;
+}
+ 
+#footer-info {
+  float: left; 
+  color: #333333; 
+  text-align: center;
+}
+ 
+#icon-right {
+  height: auto; 
+  width: 5%; 
+  margin-right: 100px; 
+  margin-top:20px; 
+  float:right;
+}
+ 
+#icon {
+  height: auto; 
+  width: 5%; 
+  margin-right: 20px; 
+  margin-top:20px; 
+  float:right;
 }
