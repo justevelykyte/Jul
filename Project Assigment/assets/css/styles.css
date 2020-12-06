@@ -188,6 +188,16 @@ h1 {
   font-weight: 400;
   color: #ffffff;
 }
+
+h2 {
+  text-align: center;
+  font-family: 'Yeseva One', cursive;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  font-weight: 400;
+  color: #CE1719;
+}
+
 .content h2{
   font-family: 'Yeseva One', cursive;
   text-align: center;
@@ -454,4 +464,7 @@ footer img{
 }
 #covid {
   color: #CE1719;
+}
+#enjoy {
+  color: #000000;
 }
