@@ -137,7 +137,7 @@ header {
 }
 
 .cloud-background-bottom {
-  margin-top: -3%;
+  margin-top: -2%;
   max-width: 100%;
 }
 
@@ -192,7 +192,7 @@ h1 {
   font-family: 'Yeseva One', cursive;
   text-align: center;
   font-weight: lighter;
-  margin-top: 48px;
+  margin-top: 50px;
 
 }
 .content h1{
@@ -433,4 +433,7 @@ float: right;
 
 footer img{
   max-width: 100%;
+}
+#covid {
+  color: #CE1719;
 }
